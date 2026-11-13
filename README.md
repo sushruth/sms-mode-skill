@@ -24,4 +24,4 @@ Say "SMS mode" to the agent. The agent also loads the skill when you ask for sho
 
 ## What changes
 
-The agent writes in Simplified Technical English (ASD-STE100). Sentences are short and active, with one idea each. The whole skill is `SKILL.md`, at about 500 bytes.
+The agent writes in Simplified Technical English (ASD-STE100). Sentences are short and active, with one idea each. The whole skill is `SKILL.md`, under 1 KB.
